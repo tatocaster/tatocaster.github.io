@@ -1,0 +1,4 @@
+baseURL = "https://tatocaster.github.io/"
+languageCode = 'en-us'
+title = "tatocaster's newsletter"
+theme = 'PaperMod'
