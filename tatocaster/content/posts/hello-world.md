@@ -5,10 +5,10 @@ draft = false
 +++
 ## Introduction
 
-So, here we are. what to expect?
+So, here we are. what to expect?:
 
-* almost monthly blog/newsletter
-* quick tips, productivity hacks
+- almost monthly blog/newsletter
+- quick tips, productivity hacks
 * random musing
 * list of reading material, mainly what I read
 * podcasts I listen
