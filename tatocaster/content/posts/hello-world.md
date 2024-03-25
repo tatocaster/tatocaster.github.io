@@ -5,7 +5,6 @@ draft = false
 +++
 
 ## Introduction
-
 So, here we are. what to expect?
 
 - almost monthly blog/newsletter
