@@ -3,8 +3,9 @@ title = 'Hello World'
 date = 2024-03-25T18:06:41+04:00
 draft = false
 +++
+
 ## Introduction
-<br/>
+
 So, here we are. what to expect?
 
 - almost monthly blog/newsletter
