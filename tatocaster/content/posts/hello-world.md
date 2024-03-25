@@ -1,6 +1,6 @@
 +++
 title = 'Hello World'
-date = 2024-03-25T23:06:41+04:00
+date = 2024-03-25T18:06:41+04:00
 draft = false
 +++
 ## Introduction
