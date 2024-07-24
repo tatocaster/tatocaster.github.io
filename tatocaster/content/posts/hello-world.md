@@ -15,4 +15,4 @@ So, here we are. what to expect?
 - games I play, recommendations
 - life in tech, news
 
-Ocassionaly I blog on Medium, mostly around Android and tech.
+Occasionally I blog on Medium, mostly around Android and tech.
